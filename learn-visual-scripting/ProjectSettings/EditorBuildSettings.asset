@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Standard Assets/Universal RP/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/_/learn-006/Scenes/Level 001.unity
+    guid: 8e79782b183515345882aad0361c959f
   m_configObjects: {}
